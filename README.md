@@ -9,7 +9,7 @@ Hi there, 👋 I'm LRboy! 😊
 
 - 🌱 A person who likes design but can't design
 
-- 🐭 JavaScript / TypeScript / Python / Vue / React.
+- 🐭 JavaScript / TypeScript / Python / Vue / React / Flask.
 
 - ❤️ I like playing basketBall🏀 and Travel 🚗.
 
