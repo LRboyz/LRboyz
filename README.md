@@ -1,6 +1,6 @@
 Hi there, 👋 I'm LRboy! 😊
 
-> a frontend engineer，At the same time, I also participated in some server-side development.
+> a frontend engineer，At the same time
 
 > If you are interested in my project, welcome to communicate with me.
 
@@ -9,11 +9,10 @@ Hi there, 👋 I'm LRboy! 😊
 
 - 🌱 A person who likes design but can't design
 
-- 🐭 JavaScript / TypeScript / Python / Vue / React / Flask.
+- 🐭 JavaScript / TypeScript / Python / Vue / React / Flask / Nestjs.
 
 - ❤️ I like playing basketBall🏀 and Travel 🚗.
 
-- 👯 I’m looking to collaborate on web outsourced software
 
   
 <div style="display: flex;align-items: top">
