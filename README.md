@@ -18,5 +18,5 @@ Hi there, 👋 I'm LRboy! 😊
 <div style="display: flex;align-items: top">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LRboyz&hide_border=true&theme=cobalt">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=LRboyz&show_icons=true&hide_border=true&theme=radical">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=LRboyz&show_icons=true&hide_border=true&theme=highcontrast">
 </div>
