@@ -1,6 +1,6 @@
 Hi there, 👋 I'm LRboy! 😊
 
-> a frontend engineer，At the same time
+> a frontend engineer
 
 > If you are interested in my project, welcome to communicate with me.
 
