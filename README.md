@@ -7,8 +7,6 @@ Hi there, 👋 I'm LRboy! 😊
 
 - 🔭 I’m now working for Dongguan.
 
-- 🌱 A person who likes design but can't design
-
 - 🐭 JavaScript / TypeScript / Python / Vue / React / Flask / Nestjs.
 
 - ❤️ I like playing basketBall🏀 and Travel 🚗.
