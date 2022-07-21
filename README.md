@@ -2,19 +2,10 @@ Hi there, 👋 I'm LRboy! 😊
 
 > a frontend engineer
 
-> If you are interested in my project, welcome to communicate with me.
 
-
-- 🔭 I’m now working for Dongguan.
-
-- 🐭 JavaScript / TypeScript / Python / Vue / React / Flask / Nestjs.
-
-- ❤️ I like playing basketBall🏀 and Travel 🚗.
-
-
+<a href="https://github.com/surmon-china/README.md/tree/main/templates/github-top-languages#gh-dark-mode-only">
+<img src="https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=LRboyz&props.theme=dark&props.background=transparent&props.count=12&props.columns=4&props.columnGap=66&props.legendSize=6&svg.width=846&svg.height=188">
+</a>
   
-<div style="display: flex;align-items: top">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LRboyz&hide_border=true&theme=synthwave">
-  
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=LRboyz&show_icons=true&hide_border=true&theme=dracula">
-</div>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=LRboyz&show_icons=true&hide_border=true&theme=dracula">
+
