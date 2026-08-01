@@ -2,5 +2,8 @@ Hi there, 👋 I'm LRboy! 😊
 
 > a frontend engineer
 
-<div><img align="right" src="https://github-readme-stats.vercel.app/api?username=LRboyz&show_icons=true&hide_border=true&theme=dracula"></div>
+## Languages
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LRboyz&layout=compact&langs_count=10&hide_border=true&theme=dracula" alt="Most Used Languages" />
+</div>
